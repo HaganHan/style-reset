@@ -1,0 +1,20 @@
+{
+  "name": "@hagan/style-reset",
+  "version": "0.0.1",
+  "private": false,
+  "description": "css样式重置",
+  "main": "style-reset.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaganHan/style-reset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaganHan/style-reset/issues"
+  },
+  "homepage": "https://github.com/HaganHan/style-reset#readme"
+}
