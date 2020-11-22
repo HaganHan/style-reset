@@ -3,7 +3,7 @@ name: '@hagan/style-reset'
 on: 
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
